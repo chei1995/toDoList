@@ -1,5 +1,5 @@
 //原本的陣列
-let data = [{ type: true, content: "惠惠男波彎" }, { type: false, content: "讓我迷上你ㄅ！！伏黑惠！！！" }, { type: true, content: "戀與伏黑惠上架中" }, ];
+let data = [{ type: true, content: "寫履歷" }, { type: false, content: "買漫畫" }, { type: true, content: "coding" }, ];
 //DOM
 const add = document.querySelector('.add');
 const addValue = document.querySelector('.new');
